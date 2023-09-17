@@ -1,8 +1,9 @@
-module github.com/rafawainer/go_api_rest
+module github.com/rafawainer/golang_api_rest/api-go-rest
 
 replace (
-	github.com/rafawainer/go_api_rest/models => C:\Users\Rafael\branches\go\api-go-rest\models
-
+github.com/rafawainer/golang_api_rest/api-go-rest/models => ./models
+github.com/rafawainer/golang_api_rest/api-go-rest/controllers => ./controllers
+github.com/rafawainer/golang_api_rest/api-go-rest/routes => ./routes
 )
 
 go 1.21.0

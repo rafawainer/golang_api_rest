@@ -1,7 +1,7 @@
 package routes
 
 import (
-	controllers "github.com/rafawainer/go_api_est/controllers"
+	"github.com/rafawainer/golang_api_rest/api-go-rest/controllers"
 	"log"
 	"net/http"
 )

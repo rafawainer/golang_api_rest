@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	models "github.com/rafawainer/go_api_est/models"
-	routes "github.com/rafawainer/go_api_est/routes"
+	"github.com/rafawainer/golang_api_rest/api-go-rest/models"
+	"github.com/rafawainer/golang_api_rest/api-go-rest/routes"
 )
 
 func main() {
