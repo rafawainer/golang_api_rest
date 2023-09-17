@@ -3,6 +3,7 @@ package controllers
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/rafawainer/golang_api_rest/api-go-rest/models"
 	"net/http"
 )
 
