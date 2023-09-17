@@ -1,4 +1,4 @@
-# golang_monitoramento_sites_logs
+# golang_api_rest
 Serviço em Golang efetuando requisição API Rest
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
